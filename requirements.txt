@@ -3,7 +3,7 @@ Flask-Bootstrap
 Flask-WTF
 WTForms
 Flask-SQLAlchemy
-SQLchemy
+SQLAlchemy
 Flask-Babel
 Babel
 Flask-Login
