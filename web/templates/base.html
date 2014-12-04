@@ -1,4 +1,8 @@
 {% extends "bootstrap/base.html" %}
+{%- block styles %}
+    {{ super() }}
+    <link href="css/style.css" rel="stylesheet" media="screen">
+{%- endblock styles %}
 
 {% block title %}Flasky{% endblock %}
 
