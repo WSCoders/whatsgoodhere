@@ -1,0 +1,15 @@
+Flask
+Flask-Bootstrap
+Flask-WTF
+WTForms
+Flask-SQLAlchemy
+SQLAlchemy
+Flask-Babel
+Babel
+Flask-Login
+Flask-Mail
+Flask-OpenID
+Jinja2
+Werkzeug
+sqlalchemy-migrate
+sqlparse
